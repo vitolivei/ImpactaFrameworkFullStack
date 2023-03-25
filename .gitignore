@@ -1,0 +1,2 @@
+# Ignorando o envio da pasta "venv" para o git
+venv
